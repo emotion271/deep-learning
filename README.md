@@ -1,2 +1,2 @@
-# kaggle
-保存kaggle代码及心得体会
+# deep-learnig
+保存deep-leaning相关资料
